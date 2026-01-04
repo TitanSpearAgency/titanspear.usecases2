@@ -1,17 +1,17 @@
 
 import React from 'react';
 import './index.css';
-import Header from './components/Header';
-import Hero from './components/Hero';
-import UseCasesDashboard from './components/UseCasesDashboard';
-import Process from './components/Process';
-import ROICalculator from './components/ROICalculator';
-import FAQ from './components/FAQ';
-import CTASection from './components/CTASection';
-import Footer from './components/Footer';
-import ChatBot from './components/ChatBot';
-import TrustSection from './components/TrustSection';
-import TechSpecs from './components/TechSpecs';
+import Header from './components/Header.tsx';
+import Hero from './components/Hero.tsx';
+import UseCasesDashboard from './components/UseCasesDashboard.tsx';
+import Process from './components/Process.tsx';
+import ROICalculator from './components/ROICalculator.tsx';
+import FAQ from './components/FAQ.tsx';
+import CTASection from './components/CTASection.tsx';
+import Footer from './components/Footer.tsx';
+import ChatBot from './components/ChatBot.tsx';
+import TrustSection from './components/TrustSection.tsx';
+import TechSpecs from './components/TechSpecs.tsx';
 
 function App() {
   return (
